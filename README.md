@@ -1,4 +1,4 @@
-# Combine-Files-Convert-Files-To-Txt
+# File-Context-Builder
 
 ✨ ชุดสคริปต์ Python อเนกประสงค์สำหรับประมวลผลและรวบรวมไฟล์โปรเจกต์ให้อยู่ในรูปแบบ Text ที่สะอาดตา เหมาะสำหรับการสร้าง Context ป้อนให้กับ Large Language Models (LLMs) และ AI
 
